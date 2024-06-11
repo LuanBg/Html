@@ -1,0 +1,19 @@
+body{
+    background: #121111;
+}
+h1{
+    color: #e85810;
+}
+.cor1{
+    background-color: #e85810;
+}
+.carousel {
+    width: 50%;
+    max-width: 1000px; 
+    margin: 0 auto; 
+}
+.carousel-inner img, .custom-carousel-img {
+    width: 100%; 
+    height: auto; 
+    max-height: 500px; 
+}
